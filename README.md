@@ -18,8 +18,9 @@ This is the workspace for our collaborative project. Please check and finish the
 
 ## Meeting Notes
 
-- **Date: 202x.xx.xx**
+- **Date: 2025.9.17**
   - **Key Insights:**
+    - Standardize research habits, e.g., study, reflection, and presentation.
+    - Investigate recent studies of table understanding.
 
-  - **Next Steps and Action Items:**
 
